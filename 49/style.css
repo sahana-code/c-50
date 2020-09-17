@@ -1,0 +1,19 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: lightpink;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    background-color: lightcyan;
+
+
+
+}
+.news{
+    display: flex;
+    justify-content: center;
+    background-color:lightpink;
+}
